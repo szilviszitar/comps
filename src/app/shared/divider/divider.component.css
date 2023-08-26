@@ -1,2 +1,6 @@
+:host:not(:first-of-type){
+    display: block;
+    margin-top: 60px;
+}
 @import "/node_modules/semantic-ui-css/semantic.css"
 
