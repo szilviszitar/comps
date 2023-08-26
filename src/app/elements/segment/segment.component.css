@@ -1,0 +1,5 @@
+div.ui.icon.header:empty{
+    display: none;
+
+}
+@import "/node_modules/semantic-ui-css/semantic.css";
