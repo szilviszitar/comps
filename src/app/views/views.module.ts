@@ -8,8 +8,9 @@ import { SharedModule } from '../shared/shared.module';
 import { ItemListComponent } from './item-list/item-list.component';
 
 
+
 @NgModule({
-  declarations: [ViewsHomeComponent, StatisticsComponent, ItemListComponent],
+  declarations: [ViewsHomeComponent, StatisticsComponent, ItemListComponent, ],
   imports: [CommonModule,ViewsRoutingModule, SharedModule],
   exports:[ViewsHomeComponent]
 })

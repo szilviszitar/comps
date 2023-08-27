@@ -13,7 +13,7 @@ export class ViewsHomeComponent {
     { value: 50, label: 'Reviews' }
   ];
 
-  items:any = [
+  items: any = [
     {
       image: '/assets/images/couch.jpeg',
       title: 'Couch',
